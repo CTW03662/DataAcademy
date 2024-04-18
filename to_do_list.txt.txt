@@ -1,0 +1,3 @@
+fazer os challenges de bash;
+rever a atividade de docker (no windows);
+terminar o tutorial de github;
